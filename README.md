@@ -2,6 +2,8 @@
 This is a project that is done with Selenium, it allows us to interact with the browser, such as clicking a Button, selecting an option of a dropdown menu etc.
 <br>
 (At least these are what I learned along the way)
+<br>
+Run app.py to launch the program
 
 ## Module Needed to Launch This Program
 -Selenium, Of Course.
