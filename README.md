@@ -4,6 +4,8 @@ This is a project that is done with Selenium, it allows us to interact with the 
 (At least these are what I learned along the way)
 <br>
 Run app.py to launch the program
+<br>
+Also, you will have to change the executive_path of the chromedriver to launch it!
 
 ## Module Needed to Launch This Program
 -Selenium, Of Course.
