@@ -5,7 +5,7 @@ This is a project that is done with Selenium, it allows us to interact with the 
 <br>
 Run app.py to launch the program
 <br>
-Also, you will have to change the executive_path of the chromedriver to launch it!
+Also, you will have to change the executive_path of the chromedriver in header.py to launch it!
 
 ## Module Needed to Launch This Program
 -Selenium, Of Course.
